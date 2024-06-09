@@ -2,6 +2,10 @@
 
 During the "Kościuszkon" hackathon, our team developed an innovative solution for "Koleje Małopolskie," a Polish railway company. Our project focuses on enhancing the user experience related to booking trains and buses in the Małopolskie voivodship. By leveraging modern technologies and innovative approaches, we aim to streamline the booking process, making it more user-friendly, efficient, and accessible. This solution is designed to address current challenges faced by travelers, ensuring a smoother and more enjoyable journey.
 
+## Live Preview
+Frontend -> http://52.59.32.223 | https://7ee2-149-156-8-98.ngrok-free.app/
+Backend -> http://52.59.32.223:3000 | https://38c0-149-156-8-98.ngrok-free.app/api
+
 ## :rocket: Innovativeness
 
 Our solution leverages cutting-edge technologies that enable rapid development and seamless deployment. By using a stack that includes **NestJS**, **React**, **Neo4j**, and **Mapbox**, we ensure a robust and efficient application.
